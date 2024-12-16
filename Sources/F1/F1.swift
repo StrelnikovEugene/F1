@@ -3,4 +3,6 @@
 
 public class BaseF1Class {
     public var baseVar = 2
+    
+    public init() { }
 }
